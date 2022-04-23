@@ -4,6 +4,7 @@
 brew update
 brew install wget
 brew install youtube-dl
+brew install nmap
 
 # Git
 brew install git
@@ -54,8 +55,29 @@ brew install --cask cakebrew
 brew install --cask lastpass
 brew install lastpass-cli
 
+# fix
+brew install --cask fig
+
+# jq
+brew install jq
+
 # rectangle
 brew install --cask rectangle
+
+# htop
+brew install htop
+
+# tldr
+brew install tldr
+
+# lulu (https://objective-see.com/products.html)
+brew install lulu
+
+# taskexplorer
+brew install --cask taskexplorer
+
+# KnockKnock
+brew install --cask knockknock
 
 # homyzsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
