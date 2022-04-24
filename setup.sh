@@ -55,8 +55,9 @@ brew install --cask cakebrew
 brew install --cask lastpass
 brew install lastpass-cli
 
-# fix
+# fig
 brew install --cask fig
+brew install fig
 
 # jq
 brew install jq
@@ -75,6 +76,9 @@ brew install lulu
 
 # taskexplorer
 brew install --cask taskexplorer
+
+# thefuck
+brew install thefuck
 
 # KnockKnock
 brew install --cask knockknock
